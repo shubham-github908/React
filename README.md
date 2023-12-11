@@ -1,3 +1,3 @@
 # React
 This is my first Git Repository.
-Author - Shubham
+Author - Shubham prajapati
